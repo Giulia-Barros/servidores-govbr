@@ -1,6 +1,5 @@
 ## API em Python que consulta todos os servidores do Poder Executivo Federal
 
-
 import requests
 import json
 
