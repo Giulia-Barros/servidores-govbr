@@ -11,7 +11,7 @@ url = "https://api.portaldatransparencia.gov.br/api-de-dados/servidores"
 # Cabeçalhos da requisição, incluindo a chave da API
 headers = {
     "accept": "*/*",
-    "chave-api-dados": "0507f724c486e7ba57031f090c03f3aa"
+    "chave-api-dados": "" #coloque sua chave aqui!
 }
 
 params = {'orgaoServidorExercicio': '13000', 'pagina': '1'}

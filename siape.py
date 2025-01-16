@@ -9,7 +9,7 @@ url = "https://api.portaldatransparencia.gov.br/api-de-dados/orgaos-siape"
 
 headers = {
     "accept": "*/*",
-    "chave-api-dados": "0507f724c486e7ba57031f090c03f3aa"
+    "chave-api-dados": "" #coloque sua chave aqui!
 }
 
 params = {'pagina': '3'}
